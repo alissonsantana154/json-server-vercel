@@ -1,9 +1,58 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "cards": [
+    {
+      "id": "1",
+      "imagem": "./assets/image 1.png",
+      "produto": "StormTropper",
+      "preco": "60.00"
+    },
+    {
+      "id": "2",
+      "imagem": "./assets/image 2.png",
+      "produto": "Game Boy Classic",
+      "preco": "60.00"
+    },
+    {
+      "id": "3",
+      "imagem": "./assets/image 1.png",
+      "produto": "StormTropper",
+      "preco": "60.00"
+    },
+    {
+      "id": "4",
+      "imagem": "./assets/image 2.png",
+      "produto": "Game Boy Classic",
+      "preco": "60.00"
+    },
+    {
+      "id": "5",
+      "imagem": "./assets/image 1.png",
+      "produto": "StormTropper",
+      "preco": "60.00"
+    },
+    {
+      "id": "6",
+      "imagem": "./assets/image 2.png",
+      "produto": "Game Boy Classic",
+      "preco": "60.00"
+    },
+    {
+      "id": "7",
+      "imagem": "./assets/image 1.png",
+      "produto": "StormTropper",
+      "preco": "60.00"
+    },
+    {
+        "id": "6",
+        "imagem": "./assets/image 2.png",
+        "produto": "Game Boy Classic",
+        "preco": "60.00"
+      },
+      {
+        "id": "7",
+        "imagem": "./assets/image 1.png",
+        "produto": "StormTropper",
+        "preco": "60.00"
+      }
+  ]
 }
